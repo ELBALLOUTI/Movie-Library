@@ -26,3 +26,4 @@ Proposed improvements and modification for the future :
   - implement the interface using Tkinter or switch to a web interface.
   - Use regex.
   - Swithch to another faster API or use web scraping.
+  - Implement a progress bar.
